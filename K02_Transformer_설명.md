@@ -127,16 +127,5 @@ print("Transformer 출력 크기:", output.shape)
 ✔ **ChatGPT, 번역기, 음성 AI에서 사용됨**.  
 ✔ **더 빠르고, 더 똑똑하게 언어를 이해함**.  
 
----
 
-## **6. GitHub에 업로드하는 방법**
-1. **이 파일을 `transformer_explanation.md`로 저장**합니다.
-2. **GitHub에 접속하여 새 저장소(Repository)를 만듭니다.**
-3. **"Add File" → "Upload File"을 클릭하고 `transformer_explanation.md`를 업로드합니다.**
-4. **"Commit Changes" 버튼을 클릭하여 저장소에 반영합니다.**
-5. 이제 GitHub에서 Markdown 형식으로 정리된 문서를 볼 수 있습니다!
-
----
-
-💡 **이제 GitHub에 업로드할 준비가 완료되었습니다! 🚀**
 
