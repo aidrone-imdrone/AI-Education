@@ -129,16 +129,5 @@ print("Transformer Output Shape:", output.shape)
 ✔ They are used in **ChatGPT, Google Translate, and speech AI**.  
 ✔ Faster, smarter, and better at understanding language.  
 
----
 
-## **6. How to Upload This to GitHub**
-1. **Save this file** as `transformer_explanation.md` on your computer.
-2. **Go to GitHub** and create a new repository.
-3. **Click "Add File" → "Upload File"** and upload `transformer_explanation.md`.
-4. **Click "Commit Changes"** to save the file to your repository.
-5. Your file is now available on GitHub!
-
----
-
-💡 **This file is now ready for GitHub! 🚀**
 
